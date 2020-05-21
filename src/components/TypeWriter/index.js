@@ -19,7 +19,6 @@ function TypeWriter({ children, delay }) {
       <VizSensor
         partialVisibility
         onChange={(isVisible) => {
-          console.log(isVisible);
           setVisible(isVisible);
         }}
       >
