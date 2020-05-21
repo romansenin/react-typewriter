@@ -1,5 +1,6 @@
 {
   "name": "react-typewriter",
+  "homepage": "https://romansenin.github.io/react-typewriter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
